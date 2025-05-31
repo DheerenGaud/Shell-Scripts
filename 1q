@@ -1,8 +1,0 @@
-#!/bin/bash
-
-echo "Arrays"
-
-arr= (1, 2, 3 , 4 6)
-
-echo $arr[2]
-
