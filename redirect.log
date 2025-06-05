@@ -1,0 +1,6 @@
+PING www3.l.google.com (142.250.183.78) 56(84) bytes of data.
+64 bytes from bom12s12-in-f14.1e100.net (142.250.183.78): icmp_seq=1 ttl=119 time=55.4 ms
+
+--- www3.l.google.com ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 55.412/55.412/55.412/0.000 ms

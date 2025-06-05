@@ -1,0 +1,20 @@
+Script started on 2025-06-04 15:47:25+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="130" LINES="33"]
+[?2004hdheeren>cmd $date
+[?2004lWed Jun  4 03:47:34 PM IST 2025
+[?2004hdheeren>cmd $free
+[?2004l               total        used        free      shared  buff/cache   available
+Mem:        15675492     3616132     9433264       89468     3051160    12059360
+Swap:        4194300           0     4194300
+[?2004hdheeren>cmd $df -h
+[?2004lFilesystem      Size  Used Avail Use% Mounted on
+tmpfs           1.5G  2.2M  1.5G   1% /run
+/dev/nvme0n1p5  167G   51G  107G  33% /
+tmpfs           7.5G     0  7.5G   0% /dev/shm
+tmpfs           5.0M   16K  5.0M   1% /run/lock
+efivarfs        128K   46K   78K  37% /sys/firmware/efi/efivars
+/dev/nvme0n1p1  256M   93M  164M  36% /boot/efi
+tmpfs           1.5G  128K  1.5G   1% /run/user/1000
+[?2004hdheeren>cmd $[?2004l
+exit
+
+Script done on 2025-06-04 15:47:45+05:30 [COMMAND_EXIT_CODE="0"]
